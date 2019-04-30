@@ -1,0 +1,8 @@
+untuk membuat folder project API baru :
+npm init
+lalu npm install :
+    - mongodb
+    - mongoose
+    - express
+    - validation
+    - bscrypt
